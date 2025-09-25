@@ -15,6 +15,12 @@ This dashboard enables:
 - Inventory planning by model and transmission
 - Seller targeting based on color and region trends
 
+  # PowerPoint Summary
+- Created a presentation summarizing dashboard objectives, KPIs, insights, and business impact
+- Includes visual snapshots of the dashboard
+- Structured for stakeholder review and decision-making
+
+
 #  Author
 Kanuboyina Hema  
 Location: Madhapur, Hyderabad  
